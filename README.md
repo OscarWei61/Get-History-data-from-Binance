@@ -63,7 +63,7 @@ python main.py
 ### Modify parameters
 
 Modify parameters to meet your data required.
-![image](https://github.com/OscarWei61/Get-History-data-from-Binance/images/function_example.png)
+![image](https://github.com/OscarWei61/Get-History-data-from-Binance/blob/main/images/function_example.png)
 
 ## License
 
