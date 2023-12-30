@@ -16,8 +16,10 @@
 - [Introduction Of Project](#introduction-of-project)
   - [Features](#features)
   - [Develop With](#develop-with)
-- [Python Install](#python-install)
-- [Include library](#include-library)
+- [Quick Start](#quick-start)
+  - [Python Install](#python-install)
+  - [Include Library](#include-library)
+  - [Modify Parameters](#modify-parameters)
 - [License](#license)
 - [Developer Contact](#developer-contact)
 
@@ -35,13 +37,20 @@ Use Python to retrieve price history data from the Binance API and save it to a 
 
 * [Python](https://www.python.org/)
 
+## Quick Start
 
-## Python install
+```bash
+git clone https://github.com/OscarWei61/Get-History-data-from-Binance  # clone
+cd Get-History-data-from-Binance
+python main.py
+```
+
+### Python install
 
 [Download and Install Python](https://www.python.org/)
 
 
-## Include library
+### Include library
 
 #### 1.[binance](https://pypi.org/project/python-binance/)
 
@@ -51,6 +60,10 @@ Use Python to retrieve price history data from the Binance API and save it to a 
 
 #### 4.[datetime](https://pypi.org/project/DateTime/)
 
+### Modify parameters
+
+Modify parameters to meet your data required.
+![image](https://github.com/OscarWei61/Get-History-data-from-Binance/images/function_example.png)
 
 ## License
 
