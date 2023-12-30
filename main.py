@@ -55,10 +55,10 @@ def main():
         'Volume': Volume
 
     })
-
-    df.to_csv("./history_data.csv", index=False)
+    
     # Store history data to this path: "./history_data.csv"
-
+    df.to_csv("./history_data.csv", index=False)
+    
     print("Run time : ", datetime.datetime.now() - start_time)
 
 main()
